@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gsettings-desktop-schemas">
+  <schema path="/uk/co/archaicgroves/server/monitor/" id="uk.co.archaicgroves.server.monitor">
+    <key type="s" name="ip-fail-time">
+      <default>''</default>
+      <summary>Time the monitor lost an approved IP</summary>
+      <description>If set, time when the monitor scanned and the IP did not match.</description>
+    </key>
+    <key type="s" name="ip">
+      <default>''</default>
+      <summary>Last IP the monitor was told was OK</summary>
+      <description>The IP approved last time the program was run.</description>
+    </key>
+  </schema>
+</schemalist>

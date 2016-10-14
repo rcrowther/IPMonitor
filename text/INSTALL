@@ -1,0 +1,17 @@
+= Install
+No build tools (thank goodness)
+
+== Requires
+Python3, GTK environment, 'curl'
+
+== Install the GSettings schema
+
+== Change internal settings
+Look in the script. All settings are annotated. But this interface should work immediately.
+
+== Run
+From a terminal,
+ 
+./IPMonitor
+
+
