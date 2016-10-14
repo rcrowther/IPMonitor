@@ -4,8 +4,10 @@ Script-like Python-GTK interface for tracking the external IP (not the computer 
 
 .. figure:: https://raw.githubusercontent.com/rcrowther/IPMonitor/master/text/IPMonitor.jpg
     :width: 132 px
-    :alt:IPMonitor screenshot
+    :alt: IPMonitor screenshot
     :align: center
+
+    all is ok
 
 Low cost, sleeps on the GTK main loop.
 
