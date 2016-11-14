@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=0.0.2
+Name=IP Monitor
+Comment=Keep track of an external IP
+Encoding=UTF-8
+Categories=GTK;Development;Utility;
+Exec=ipmonitor-gtk
+Icon=ipmonitor-gtk
+Terminal=false
+StartupNotify=true

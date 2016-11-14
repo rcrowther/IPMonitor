@@ -44,7 +44,7 @@ from datetime import datetime, date, time
 #TESTINTERVAL=20*60*60
 TESTINTERVAL=5
 
-GSCHEMA = "uk.co.archaicgroves.server.monitor"
+GSCHEMA = "uk.co.archaicgroves.ipmonitor-gtk"
 IP_KEY = 'ip'
 IP_FAIL_KEY = 'ip-fail-time'
 
